@@ -1,6 +1,7 @@
 <template>
   <div class="home-page">
-    <p class="font-bold flex text-size-[20px]">home page</p>
+    <p class="font-bold flex p-5px">home page</p>
+    <div class="h-12 w-12 bg-[#b2a8bb]" />
   </div>
 </template>
 
