@@ -1,5 +1,7 @@
 <template>
-  <div class="home-page">home page</div>
+  <div class="home-page">
+    <p class="font-bold flex text-size-[20px]">home page</p>
+  </div>
 </template>
 
 <script lang="ts" setup>

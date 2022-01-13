@@ -5,7 +5,7 @@ import router from "@/routers";
 import App from "./App.vue";
 
 // 加载样式文件
-import "@/styles/base.scss";
+// import "@/styles/base.scss";
 
 function render() {
   const app = createApp(App);
